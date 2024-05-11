@@ -1,1 +1,2 @@
 # Restaurant-Review-Analysis
+This restaurant review analysis system tackles the challenge of managing online reviews by leveraging machine learning. It automatically classifies reviews as positive or negative, eliminating the need for time-consuming manual analysis.  The user-friendly interface allows both customers to submit reviews and restaurant owners to access insights. By storing results in a database, the system empowers restaurants to gain valuable trends and make data-driven decisions to improve customer satisfaction.
